@@ -1,4 +1,4 @@
-- For initiating with the project run `yarn` or `npm i` to packages.
+- For initiating with the project run `yarn` or `npm i` to install the packages.
 
 - Import the `db.json`file in your CouchDB.
 
